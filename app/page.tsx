@@ -143,7 +143,7 @@ export default function Home() {
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5 transition duration-300 hover:border-blue-500/40 hover:bg-blue-500/5">
                 <div className="text-2xl">🌐</div>
                 <h3 className="mt-4 font-semibold">
-                  Aplicaciones Web
+                  Web Applications
                 </h3>
                 <p className="mt-2 text-sm leading-6 text-zinc-400">
                   Modern, responsive interfaces focused on user experience.
@@ -163,7 +163,7 @@ export default function Home() {
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5 transition duration-300 hover:border-blue-500/40 hover:bg-blue-500/5">
                 <div className="text-2xl">📱</div>
                 <h3 className="mt-4 font-semibold">
-                  Desarrollo Mobile
+                  Mobile Development
                 </h3>
                 <p className="mt-2 text-sm leading-6 text-zinc-400">
                   Mobile application development using different technologies.
@@ -189,8 +189,8 @@ export default function Home() {
             </h2>
 
             <p className="mt-4 text-zinc-400">
-              Technologies & Tools que utilizo para desarrollar aplicaciones
-              web, móviles y soluciones backend.
+              Technologies and tools I use to develop web and 
+              mobile applications and backend solutions.
             </p>
           </div>
 
@@ -467,7 +467,7 @@ export default function Home() {
           </p>
 
           <h2 className="text-3xl font-bold sm:text-4xl">
-            Projects destacados
+            Featured Projects
           </h2>
 
           <p className="mt-5 max-w-2xl leading-7 text-zinc-400">
@@ -573,7 +573,7 @@ export default function Home() {
 
                   <ul className="mt-4 space-y-2 text-sm text-zinc-400">
                     <li>• Frontend & Backend Development</li>
-                    <li>• Calendar y reservas</li>
+                    <li>• Calendar and reservations</li>
                     <li>• Statistics</li>
                     <li>• User roles and role-based actions</li>
                   </ul>
@@ -717,11 +717,11 @@ export default function Home() {
           </h2>
 
           <p className="mx-auto mt-5 max-w-xl text-zinc-400">
-            If you are interested in my profile or would like to discuss a project, feel free to contact me.
+            If you are interested on my profile or would like to discuss a project, feel free to contact me.
           </p>
 
           <a
-            href="mailto:edsonleyvagonzalez@gmail.com?subject=Contact%20desde%20mi%20portafolio"
+            href="mailto:edsonleyvagonzalez@gmail.com?subject=Contact%20from%20my%20portfolio"
             className="mt-8 inline-block rounded-full bg-blue-600 px-6 py-3 font-medium transition hover:bg-blue-500"
           >
             Send me an email
